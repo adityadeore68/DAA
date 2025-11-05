@@ -1,3 +1,5 @@
+#Name : Aditya Deore
+#PRN : 123B1F019
 
 public class Knapsack01 {
 
@@ -31,3 +33,4 @@ public class Knapsack01 {
         System.out.println("Maximum value in Knapsack = " + knapsack(W, wt, val, n));
     }
 }
+
