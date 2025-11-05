@@ -1,4 +1,5 @@
-
+#Name : Aditya Deore
+#PRN : 123B1F019
 public class MergeSortExample {
 
     public static void merge(int[] arr, int left, int mid, int right) {
@@ -66,3 +67,4 @@ public class MergeSortExample {
         System.out.println();
     }
 }
+
