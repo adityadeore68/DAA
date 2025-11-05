@@ -1,4 +1,5 @@
-
+#Name : Aditya Deore
+#PRN : 123B1F019
 public class SelectionSortExample {
 
     public static void selectionSort(int[] arr) {
@@ -35,3 +36,4 @@ public class SelectionSortExample {
         printArray(arr);
     }
 }
+
